@@ -1,0 +1,5 @@
+1 zbiór danych https://www.kaggle.com/datasets/sohier/calcofi 
+2 zbiór danych https://archive.ics.uci.edu/dataset/211/communities+and+crime+unnormalized
+3 zbiór danych https://archive.ics.uci.edu/dataset/536/pedestrian+in+traffic+dataset
+4 zbiór danych https://www.kaggle.com/datasets/budincsevity/szeged-weather
+5 zbiór danych https://archive.ics.uci.edu/dataset/514/bias+correction+of+numerical+prediction+model+temperature+forecast
